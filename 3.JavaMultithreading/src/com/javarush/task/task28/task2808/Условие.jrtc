@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task28.task2808">
+<h3>Осваиваем Callable</h3>
+<p>Реализуй логику метода <mark>getTask</mark>, который должен возвращать объект <strong><span class="text-corporate">Callable</span></strong>.<br />
+Объект <span class="text-corporate"><strong>Callable</strong></span> должен вычислять сумму всех чисел от <span class="text-user"><strong>1</strong></span> до переданного числа <mark class="user">i</mark> включая его, и возвращать его в виде строки.<br />
+Метод <mark>main</mark> не участвует в тестировании.</p>
+
+</div>
