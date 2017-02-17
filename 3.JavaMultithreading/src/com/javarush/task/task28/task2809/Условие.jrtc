@@ -1,0 +1,13 @@
+<div class="wdghtml" taskKey="com.javarush.task.task28.task2809">
+<h3>Plants vs Zombies</h3>
+<p>1. Почитай про <em><strong>java.util.concurrent.Phaser</strong></em>.<br />
+2. Расставь методы в нужных местах:<br />
+&#8212; <mark>arriveAndDeregister()</mark> &#8212; начинает запускать методы run у тасок,<br />
+&#8212; <mark>arriveAndAwaitAdvance()</mark> &#8212; ждет, когда все трэды будут созданы.</p>
+<p>Пример вывода см. в <em><strong>output.txt</strong></em>.<br />
+<strong>Логика:</strong><br />
+Сначала все персонажи присоединяются к игре.<br />
+После того, как все персонажи присоединятся к игре и готовы играть, выводится фраза &#171;<strong><em>Игра началась!&#187;</em></strong>.<br />
+После этого персонажи вступают в игру, после чего умирают.</p>
+
+</div>
